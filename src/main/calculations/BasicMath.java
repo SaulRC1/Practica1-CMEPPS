@@ -31,4 +31,14 @@ public class BasicMath {
 	public static void multiplication(int number1, int number2) {
 		System.out.println(number1 + " * " + number2 + " = " + (number1 * number2));
 	}
+	
+	/**
+	 * Divides the two given numbers
+	 * 
+	 * @param number1 Number to have the division applied to
+	 * @param number2 The number we will divide with the first one
+	 */
+	public static void division(int number1, int number2) {
+		System.out.println(number1 + " / " + number2 + " = " + (number1 / number2));
+	}
 }
