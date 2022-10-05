@@ -41,4 +41,8 @@ public class BasicMath {
 	public static void division(int number1, int number2) {
 		System.out.println(number1 + " / " + number2 + " = " + (number1 / number2));
 	}
+	
+	public static void power(int base, int exponent) {
+		
+	}
 }
