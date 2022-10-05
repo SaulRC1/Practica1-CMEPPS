@@ -21,4 +21,14 @@ public class BasicMath {
 	public static void substraction(int number1, int number2) {
 		System.out.println(number1 + " - " + number2 + " = " + (number1 - number2));
 	}
+	
+	/**
+	 * Multiplies the two given numbers
+	 * 
+	 * @param number1 A number to be multiplied
+	 * @param number2 A number to be multiplied
+	 */
+	public static void multiplication(int number1, int number2) {
+		System.out.println(number1 + " * " + number2 + " = " + (number1 * number2));
+	}
 }
