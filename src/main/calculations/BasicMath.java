@@ -42,6 +42,12 @@ public class BasicMath {
 		System.out.println(number1 + " / " + number2 + " = " + (number1 / number2));
 	}
 	
+	/**
+	 * Raises a base to the exponent given
+	 * 
+	 * @param base
+	 * @param exponent
+	 */
 	public static void power(int base, int exponent) {
 		
 	}
